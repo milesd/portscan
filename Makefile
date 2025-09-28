@@ -12,4 +12,3 @@ portscan: portscan.c
 
 clean:
 	rm -f core *.o portscan portscan~
-	indent portscan.c
